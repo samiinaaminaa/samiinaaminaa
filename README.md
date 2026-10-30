@@ -2,8 +2,8 @@
 <p align="center"><b>AI engineer & consultant.</b> I build AI products that ship — from agent backends to the UI people actually use.</p>
 
 <p align="center">
-  <a href="https://units.school"><img src="https://img.shields.io/badge/Building-Units-2663EB?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/Working%20with-Rare%20Labs%20(YC)-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" />
+  <a href="https://units.school"><img src="https://img.shields.io/badge/Building-Units%20(YC)-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Working%20with-Rare%20Labs-2663EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Consultant-111111?style=for-the-badge" />
 </p>
 
@@ -11,8 +11,8 @@
 
 ### What I'm up to
 
-- 🎓 **[Units](https://units.school)** — building an AI-native school: interactive lessons, an AI tutor on a live whiteboard, AI-assisted grading, and LMS integrations (Canvas, Moodle, D2L).
-- 🚀 **Rare Labs (YC)** — engineering work with a Y Combinator startup.
+- 🎓 **[Units](https://units.school) (YC)** — building an AI-native school: interactive lessons, an AI tutor on a live whiteboard, AI-assisted grading, and LMS integrations (Canvas, Moodle, D2L).
+- 🚀 **Rare Labs** — building AI products with the Rare Labs team.
 - 🧠 **AI consulting** — I help teams go from "we should use AI" to a working product: agents, RAG, evals, and the product around them.
 
 ### What I build
