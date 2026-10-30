@@ -43,13 +43,6 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
 
-### GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samiinaaminaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiinaaminaa&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ### Get in touch
 
 Open to AI consulting and build work.
